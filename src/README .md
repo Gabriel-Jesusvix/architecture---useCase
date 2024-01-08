@@ -36,8 +36,7 @@ To optimize the use of MVC in React Native, it's essential to seek best practice
 
 
 ## Examples
-<img src="![image](https://github.com/Gabriel-Jesusvix/architecture---useCase/assets/62946928/ea7e8942-a91c-4da5-8b88-d3b33a1452f0)
-" alt="drawing" width="400" />
+![image](https://github.com/Gabriel-Jesusvix/architecture---useCase/assets/62946928/ea7e8942-a91c-4da5-8b88-d3b33a1452f0) 
 <br />
 <br />
 <br />
