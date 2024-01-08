@@ -1,7 +1,14 @@
-## I'll show how working with pattern MVC, MVP and MVVM using React Native
+# Use Case
 
-- We have 3 branches diferentes to show of the different patterns: MVC, MVP and MVVM.
+- How architecture  application MVP with React Native
 
-- The objective is to help you make a more assertive decision when building a project in React Native.
+## Benefits
 
-- You can contribute to this project. For more information you can issues or contact me of the linkedin. Thanks.
+-  Melhor manutenabilidade 
+
+- Alteração em uma das partes sem alterar as outras
+
+- Maior tolerância à falhas, ou seja, o Model atua como um controlador 
+dos dados que garante que os dados sejam
+alterados corretamente, e também uma escalabilidade aprimorada, 
+que permite que as views sejam independentes do Model e controller
