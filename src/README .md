@@ -40,5 +40,5 @@ To optimize the use of MVC in React Native, it's essential to seek best practice
 <br />
 <br />
 <br />
-<h1>You can view how is it separation in this repository <strong>Pattern/MVC</strong> </h1>
+<h1>You can view how is it separation in this branch about that <strong>Pattern/MVC</strong> </h1>
 
