@@ -1,10 +1,10 @@
 /* eslint-disable react/react-in-jsx-scope */
-import {Text, View} from 'react-native';
-import {styles} from './styles';
+import { SafeAreaView } from "react-native";
+import CounterPresenter from "../../Presenter/CounterPresenter";
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Hello Rn - Windows</Text>
-    </View>
+    <SafeAreaView>
+      <CounterPresenter />
+    </SafeAreaView>
   );
 }
