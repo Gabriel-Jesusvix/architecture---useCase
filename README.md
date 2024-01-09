@@ -26,6 +26,12 @@ Applying the MVP architecture in React Native app development yields various ben
 
 4. **Simplified Maintenance**: Each component's distinct responsibility streamlines any changes or updates, reducing the risk of unintended impacts on other parts of the code.
 
+
+## Example View 
+
+<img width="500" alt="image" src="https://github.com/Gabriel-Jesusvix/architecture---useCase/assets/62946928/694d9cd7-d469-4b51-865d-67f4f787a08b">
+
+
 ### Balancing Final
 
 Implementing the MVP architecture within React Native offers an organized and scalable approach to mobile app development. By clearly segregating presentation elements, data, and business logic, this architecture improves code maintenance, testability, and scalability, providing a robust foundation for building high-quality and resilient mobile applications.
