@@ -1,6 +1,6 @@
 # Use Case
 
-- How architecture  application MVC with React Native
+- How architecture  application MVVM with React Native
 
 ## Benefits
 
