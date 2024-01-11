@@ -6,7 +6,7 @@
 
 Implementing the MVVM (Model-View-ViewModel) architecture in React Native offers several advantages in terms of code organization, maintainability, and overall software development maturity. Inversion of control, decoupling, and dependency injection are fundamental concepts that contribute to clean and well-structured code. The MVVM pattern, introduced by John Gossman in 2005, has proven to be effective in enhancing the development process, particularly in frameworks like WPF and Silverlight at Microsoft.
 
-## Advantages
+# Advantages
 
 ### 1. Improved Maintainability
 
