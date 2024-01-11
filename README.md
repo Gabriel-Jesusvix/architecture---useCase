@@ -31,4 +31,6 @@ While MVVM brings numerous advantages, it's essential to acknowledge potential d
 ## Additional Observations about the Pattern
 In conclusion, adopting the MVVM architecture in React Native can significantly contribute to building robust, scalable, and maintainable applications, fostering a mature and efficient software development process.
 
+I utility a library Mobx to similar a managment state, but could use that ContextAPI or some managment state ( Redux - Zustand, etc..).
+
 ![image](https://github.com/Gabriel-Jesusvix/architecture---useCase/assets/62946928/9ed75daf-a328-4936-af2a-a62512851e6d)
